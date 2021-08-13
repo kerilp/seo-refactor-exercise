@@ -2,12 +2,12 @@
 
 ## Homework 01: Code Refactor Assignment
 
-SEO Deploy
+Refactoring Horiseon's webpage to meet accessibility standards and run smoothly.
 
 ## Links
 
+[Live Website] (https://kerilp.github.io/seo-refactor-exercise/)
+
 [Source Code] (https://github.com/kerilp/seo-refactor-exercise)
 
-[Deployed Website] (https://kerilp.github.io/seo-refactor-exercise/)
-
-![Site Screenshot](https://github.com/kerilp/seo-refactor-exercise/blob/main/assets/images/horiseon.png)
+![Site Screenshot](./assets/images/horiseon.png)
