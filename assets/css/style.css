@@ -53,6 +53,11 @@ a:hover {
     color: #2a607c;
 }
 
+a:focus {
+    background-color: #d9dcd6;
+    color: #2a607c;
+}
+
 main {
     width: 75%;
     display: inline-block;
